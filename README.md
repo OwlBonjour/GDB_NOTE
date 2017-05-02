@@ -1,4 +1,4 @@
-# GDB_NOTE
+# Linux-and-Programming
 
 ### Makefile：http://blog.csdn.net/ruglcc/article/details/7814546/
 ### http://wiki.ubuntu.org.cn/用GDB调试程序
